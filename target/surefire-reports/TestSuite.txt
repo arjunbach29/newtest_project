@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.359 s <<< FAILURE! - in TestSuite
-googletest(org.example.AppTest)  Time elapsed: 12.026 s  <<< FAILURE!
-junit.framework.ComparisonFailure: expected:<https://www.google.com/search?q=Mobiles&source=hp&ei=jeBAZLC1FeSv2roP6Oy82AQ&iflsig=AOEireoAAAAAZEDunVkuhw_PUe7fd-qGr6F4AqOjqrdP&ved=0ahUKEwjwr5OT77f-AhXkl1YBHWg2D0sQ4dUDCAk&oq=Mobiles&gs_lcp=Cgdnd3Mtd2l6EAwyCAgAEIAEELEDMggIABCABBCxAzILCAAQgAQQsQMQgwEyCAgAEIAEELEDMggIABCABBCxAzIICAAQgAQQsQMyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEOggIABCKBRCxA1AAWEhggwpoAHAAeACAAZoCiAHGB5IBBTAuMS4zmAEAoAEB&sclient=gws-wiz> but was:<Mobiles - Google Search>
-	at org.example.AppTest.googletest(AppTest.java:23)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.472 s - in TestSuite
